@@ -1,3 +1,15 @@
+# About this repo
+
+This repository contains a React project that serves as a challenge submission for the [DIO](https://www.dio.me/) React course. The project showcases a login form implemented using React Hook Form with Yup for schema validation. The primary objective was to create a form with conditional validation, where the submit button’s enabled state is determined by the form’s validity.
+
+# Technologies Used
+
+- React
+- TypeScript
+- React Hook Form
+- Yup Validation
+- Styled Components
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
